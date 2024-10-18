@@ -1,4 +1,4 @@
-**Hi there 👋 I'm [Aman Khan]!**  
+**Hi there 👋 I'm Aman Khan!**  
 
 **Aspiring Web & Application Developer | Human Resources Enthusiast | Chess Player**  
 
