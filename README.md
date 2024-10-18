@@ -1,6 +1,6 @@
 **Hi there 👋 I'm Aman Khan!**  
 
-**Aspiring Web & Application Developer | Human Resources Enthusiast | Chess Player**  
+**Web & Application Developer | Human Resources | Chess Player**  
 
 Welcome to my GitHub! I'm currently pursuing a **Diploma in Computer Science and Engineering** at **Sanjay Ghodawat Institute**. I have experience in **web development** and have completed an internship at **Wisdom Sprouts IT Training Hub** in Hinjewadi.  
 
